@@ -66,7 +66,7 @@ Senha: SilvioNaFiep2025
 | PUT    | /produtos/:id| ✅        | Atualiza um produto    |
 | DELETE | /produtos/:id| ✅        | Remove um produto      |
 
-👉 [Baixar coleção Postman](./postman/collection.json)
+👉 [Baixar coleção Postman](./case-api/postman/collection.json)
 
 
 ### 🧪 Testando a API
