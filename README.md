@@ -23,8 +23,8 @@ Este projeto é uma aplicação fullstack composta por um backend em Node.js + E
 
 1. **Clone este repositório**:
 ```bash
-git clone https://github.com/seu-usuario/seu-repositorio.git
-cd seu-repositorio
+git clone https://github.com/silviosnjr/caseFIEP.git
+cd caseFIEP
 ```
 
 2. **Suba os containers com Docker Compose**:
