@@ -41,8 +41,10 @@ docker-compose up --build
 [http://localhost:5173](http://localhost:5173)
 
 4. **Acesse o sistema com o seguinte usuário teste (pré-criado)**:
-Email: ```admin@fiep.org.br```
-Senha: ```SilvioNaFiep2025```
+Email:
+```admin@fiep.org.br```
+Senha:
+```SilvioNaFiep2025```
 
 ## 🐘 Acesso ao banco via pgAdmin (opcional)
 
