@@ -41,6 +41,7 @@ docker-compose up --build
 [http://localhost:5173](http://localhost:5173)
 
 4. **Acesse o sistema com o seguinte usuário teste (pré-criado)**:
+
 Email:
 ```
 admin@fiep.org.br
