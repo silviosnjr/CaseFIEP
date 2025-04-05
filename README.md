@@ -42,9 +42,13 @@ docker-compose up --build
 
 4. **Acesse o sistema com o seguinte usuário teste (pré-criado)**:
 Email:
-```admin@fiep.org.br```
+```
+admin@fiep.org.br
+```
 Senha:
-```SilvioNaFiep2025```
+```
+SilvioNaFiep2025
+```
 
 ## 🐘 Acesso ao banco via pgAdmin (opcional)
 
