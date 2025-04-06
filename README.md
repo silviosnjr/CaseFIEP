@@ -2,7 +2,7 @@
 
 Criado por **Silvio Sales do Nascimento Junior**
 
-Repositório no GitHub [https://github.com/silviosnjr/caseFIEP.git](https://github.com/silviosnjr/caseFIEP.git)
+Repositório no GitHub [https://github.com/silviosnjr/caseFIEP](https://github.com/silviosnjr/caseFIEP)
 
 ![Amostra do case em execução](./amostra.gif)
 
