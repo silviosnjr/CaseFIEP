@@ -12,7 +12,7 @@ A documentação completa do projeto está disponível nos seguintes arquivos:
 
 - [Introdução](introducao.md)
 - [Pré-requisitos e Instalação](requisitos.md)
-- [Configuração do Projeto](configuracao.md)
+- [Configuração do Projeto](configuracoes.md)
 - [API de Autenticação](autenticacao.md)
 - [API de Produtos](produtos.md)
 - [Sobre o Projeto](sobre-o-projeto.md)
