@@ -5,14 +5,14 @@ Repositório no GitHub [https://github.com/silviosnjr/caseFIEP.git](https://gith
 
 Este projeto é uma aplicação fullstack composta por um backend em Node.js + Express com autenticação via JWT e um frontend em React, conectando-se a um banco de dados PostgreSQL.
 
-## 🧱 Tecnologias
+## Tecnologias
 
 - Backend: Node.js, Express, Sequelize, JWT, PostgreSQL
 - Frontend: React, Axios
 - Banco de dados: PostgreSQL
 - Docker: para ambiente isolado e portável
 
-## 🚀 Como executar o projeto
+## Como executar o projeto
 
 ### Pré-requisitos
 
@@ -52,7 +52,7 @@ Senha:
 SilvioNaFiep2025
 ```
 
-## 📦 Endpoints principais (backend)
+## Endpoints principais (backend)
 
 | Método | Rota         | Protegida | Descrição              |
 |--------|--------------|-----------|------------------------|
@@ -62,21 +62,18 @@ SilvioNaFiep2025
 | PUT    | /produtos/:id| ✅        | Atualiza um produto    |
 | DELETE | /produtos/:id| ✅        | Remove um produto      |
 
-👉 [Baixar coleção Postman](./case-api/postman/collection.json)
+[Baixar coleção Postman](./case-api/postman/collection.json)
 
 
-### 🧪 Testando a API
-
+### Testando a API
 Você pode testar as rotas do backend com ferramentas como:
-
 - [Postman](https://www.postman.com/)
 - [Insomnia](https://insomnia.rest/)
 
 As rotas da API estão disponíveis em: `http://localhost:3000`
 
 
-## 🛠 Estrutura dos diretórios
-
+## Estrutura dos diretórios
 ```
 ├── case-api        # Backend (Node.js)
 │   ├── src
@@ -86,14 +83,3 @@ As rotas da API estão disponíveis em: `http://localhost:3000`
 ├── docker-compose.yml
 └── README.md
 ```
-
-## 🔐 Segurança aplicada
-
-- Senhas com hash via `bcryptjs`
-- Autenticação com JWT
-- Proteção contra brute force com `express-rate-limit` na rota de login
-- Middleware de autenticação para proteger as rotas
-
----
-
-Feito com 💻 por Silvio Sales do Nascimento Junior
