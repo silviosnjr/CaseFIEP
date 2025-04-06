@@ -1,6 +1,7 @@
 # Case FIEP Fullstack: Sistema de Produtos com Autenticação
 Criado por **Silvio Sales do Nascimento Junior**
 Repositório no GitHub [https://github.com/silviosnjr/caseFIEP.git](https://github.com/silviosnjr/caseFIEP.git)
+![Amostra do projeto em execução](./amostra_case_fiep.gif)
 
 Este projeto é uma aplicação fullstack composta por um backend em Node.js + Express com autenticação via JWT e um frontend em React, conectando-se a um banco de dados PostgreSQL.
 
