@@ -42,7 +42,10 @@ docker-compose up --build
 > - Subir o frontend (porta 5173)
 
 3. **Digite na barra de endereço do navegador**:
+
+```
 http://localhost:5173/login
+```
 
 4. **Acesse o sistema com o seguinte usuário teste (pré-criado)**:
 
