@@ -74,15 +74,3 @@ Você pode testar as rotas do backend com ferramentas como:
 - [Insomnia](https://insomnia.rest/)
 
 As rotas da API estão disponíveis em: `http://localhost:3000`
-
-
-## Estrutura dos diretórios
-```
-├── case-api        # Backend (Node.js)
-│   ├── src
-│   └── Dockerfile
-├── case-frontend   # Frontend (React)
-│   └── Dockerfile
-├── docker-compose.yml
-└── README.md
-```
