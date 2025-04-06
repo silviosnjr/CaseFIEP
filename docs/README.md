@@ -10,9 +10,9 @@ Este projeto é uma aplicação fullstack composta por um backend em Node.js + E
 
 A documentação completa do projeto está disponível nos seguintes arquivos:
 
-- [Introdução](docs/introducao.md)
-- [Pré-requisitos e Instalação](docs/requisitos.md)
-- [Configuração do Projeto](docs/configuracao.md)
-- [API de Autenticação](docs/api/autenticacao.md)
-- [API de Produtos](docs/api/produtos.md)
-- [Sobre o Projeto](docs/sobre-o-projeto.md)
+- [Introdução](introducao.md)
+- [Pré-requisitos e Instalação](requisitos.md)
+- [Configuração do Projeto](configuracao.md)
+- [API de Autenticação](autenticacao.md)
+- [API de Produtos](produtos.md)
+- [Sobre o Projeto](sobre-o-projeto.md)
