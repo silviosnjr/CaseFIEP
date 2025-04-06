@@ -38,23 +38,18 @@ docker-compose up --build
 > - Subir o frontend (porta 5173)
 
 3. **Acesse no navegador**:
-```
-http://localhost:5173
-```
+[http://localhost:5173](http://localhost:5173)
 
 4. **Acesse o sistema com o seguinte usuário teste (pré-criado)**:
-```
-Email: teste@email.com
-Senha: 123456
-```
 
-## 🐘 Acesso ao banco via pgAdmin (opcional)
-
-- Host: `localhost`
-- Porta: `5432`
-- Usuário: `postgres`
-- Senha: `admin`
-- Banco de dados: `case-api`
+Email:
+```
+admin@fiep.org.br
+```
+Senha:
+```
+SilvioNaFiep2025
+```
 
 ## 📦 Endpoints principais (backend)
 
@@ -66,7 +61,7 @@ Senha: 123456
 | PUT    | /produtos/:id| ✅        | Atualiza um produto    |
 | DELETE | /produtos/:id| ✅        | Remove um produto      |
 
-👉 [Baixar coleção Postman](./postman/collection.json)
+👉 [Baixar coleção Postman](./case-api/postman/collection.json)
 
 
 ### 🧪 Testando a API
