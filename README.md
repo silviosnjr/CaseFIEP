@@ -6,14 +6,14 @@ Repositório no GitHub [https://github.com/silviosnjr/caseFIEP](https://github.c
 
 ![Amostra do case em execução](./amostra.gif)
 
-Este projeto é uma aplicação fullstack composta por um backend em Node.js + Express com autenticação via JWT e um frontend em React, conectando-se a um banco de dados PostgreSQL.
+Este projeto é uma aplicação fullstack composta por um backend em Node.js + Express com autenticação via JWT contendo uma API RESTful e um frontend em React, conectando-se a um banco de dados PostgreSQL.
 
 ## Tecnologias
 
-- Backend: Node.js, Express, Sequelize, JWT, PostgreSQL
-- Frontend: React, Axios
-- Banco de dados: PostgreSQL
-- Docker: para ambiente isolado e portável
+- Backend: Node.js, Express, Sequelize, JWT e PostgreSQL;
+- Frontend: React, Axios e Bootstrap;
+- Banco de dados: PostgreSQL;
+- Docker: para ambiente isolado e portável.
 
 ## Como executar o projeto
 
@@ -74,3 +74,6 @@ Você pode testar as rotas do backend com ferramentas como:
 - [Insomnia](https://insomnia.rest/)
 
 As rotas da API estão disponíveis em: `http://localhost:3000`
+
+### Documentação completa
+Não deixe de consultar a [documentação](./docs/README.md) dessa aplicação.
