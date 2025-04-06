@@ -51,14 +51,6 @@ Senha:
 SilvioNaFiep2025
 ```
 
-## 🐘 Acesso ao banco via pgAdmin (opcional)
-
-- Host: `localhost`
-- Porta: `5432`
-- Usuário: `postgres`
-- Senha: `admin`
-- Banco de dados: `case-api`
-
 ## 📦 Endpoints principais (backend)
 
 | Método | Rota         | Protegida | Descrição              |
